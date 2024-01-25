@@ -17,6 +17,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.Enumeration;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.UUID;
 
 @Component
 @Aspect
@@ -43,6 +44,7 @@ public class LoggerAspect {
 
             String paramters = loggingFilter.logPayload("Request", request.getContentType(), request.getInputStream());
             try {
+                params.put("traceId", UUID.randomUUID().toString());
                 params.put("controller", controllerName);
                 params.put("method", methodName);
 //                params.put("params", getParams(request));
