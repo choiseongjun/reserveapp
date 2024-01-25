@@ -1,0 +1,596 @@
+[2024-01-25 09:42:48:241] INFO  78312 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 78312 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 09:42:48:241] DEBUG 78312 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 09:42:48:242] INFO  78312 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 09:42:49:1492] INFO  78312 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.444 seconds (process running for 1.675)
+[2024-01-25 09:43:02:14101] DEBUG 78312 --- [nio-8080-exec-2] c.e.r.p.controller.ProductController     : debug message
+[2024-01-25 09:43:02:14102] INFO  78312 --- [nio-8080-exec-2] c.e.r.p.controller.ProductController     : info message
+[2024-01-25 09:43:02:14102] WARN  78312 --- [nio-8080-exec-2] c.e.r.p.controller.ProductController     : warn message
+[2024-01-25 09:43:02:14102] ERROR 78312 --- [nio-8080-exec-2] c.e.r.p.controller.ProductController     : error message
+[2024-01-25 09:44:25:239] INFO  78400 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 78400 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 09:44:25:240] DEBUG 78400 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 09:44:25:240] INFO  78400 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 09:44:26:1451] INFO  78400 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.402 seconds (process running for 1.661)
+[2024-01-25 09:44:29:4610] DEBUG 78400 --- [nio-8080-exec-1] c.e.r.p.controller.ProductController     : debug message
+[2024-01-25 09:44:29:4610] INFO  78400 --- [nio-8080-exec-1] c.e.r.p.controller.ProductController     : info message
+[2024-01-25 09:44:29:4610] WARN  78400 --- [nio-8080-exec-1] c.e.r.p.controller.ProductController     : warn message
+[2024-01-25 09:44:29:4610] ERROR 78400 --- [nio-8080-exec-1] c.e.r.p.controller.ProductController     : error message
+[2024-01-25 09:45:21:56377] DEBUG 78400 --- [nio-8080-exec-3] c.e.r.p.controller.ProductController     : debug message
+[2024-01-25 09:45:21:56378] INFO  78400 --- [nio-8080-exec-3] c.e.r.p.controller.ProductController     : info message
+[2024-01-25 09:45:21:56378] WARN  78400 --- [nio-8080-exec-3] c.e.r.p.controller.ProductController     : warn message
+[2024-01-25 09:45:21:56378] ERROR 78400 --- [nio-8080-exec-3] c.e.r.p.controller.ProductController     : error message
+[2024-01-25 10:20:31:342] INFO  80564 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 80564 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:20:31:342] DEBUG 80564 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:20:31:342] INFO  80564 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:20:33:1932] INFO  80564 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.87 seconds (process running for 2.208)
+[2024-01-25 10:21:22:297] INFO  80605 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 80605 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:21:22:298] DEBUG 80605 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:21:22:298] INFO  80605 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:21:23:1841] INFO  80605 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.747 seconds (process running for 2.033)
+[2024-01-25 10:23:41:300] INFO  80708 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 80708 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:23:41:300] DEBUG 80708 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:23:41:300] INFO  80708 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:23:42:1746] INFO  80708 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.653 seconds (process running for 1.929)
+[2024-01-25 10:23:44:3319] DEBUG 80708 --- [nio-8080-exec-1] c.e.r.p.controller.ProductController     : debug message
+[2024-01-25 10:23:44:3319] INFO  80708 --- [nio-8080-exec-1] c.e.r.p.controller.ProductController     : info message
+[2024-01-25 10:23:44:3319] WARN  80708 --- [nio-8080-exec-1] c.e.r.p.controller.ProductController     : warn message
+[2024-01-25 10:23:44:3319] ERROR 80708 --- [nio-8080-exec-1] c.e.r.p.controller.ProductController     : error message
+[2024-01-25 10:24:35:260] INFO  80761 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 80761 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:24:35:261] DEBUG 80761 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:24:35:261] INFO  80761 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:24:37:1835] INFO  80761 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.777 seconds (process running for 2.149)
+[2024-01-25 10:24:42:270] INFO  80763 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 80763 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:24:42:270] DEBUG 80763 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:24:42:271] INFO  80763 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:24:43:1674] INFO  80763 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.626 seconds (process running for 1.855)
+[2024-01-25 10:24:46:4098] DEBUG 80763 --- [nio-8080-exec-2] c.e.r.p.controller.ProductController     : debug message
+[2024-01-25 10:24:46:4098] INFO  80763 --- [nio-8080-exec-2] c.e.r.p.controller.ProductController     : info message
+[2024-01-25 10:24:46:4098] WARN  80763 --- [nio-8080-exec-2] c.e.r.p.controller.ProductController     : warn message
+[2024-01-25 10:24:46:4098] ERROR 80763 --- [nio-8080-exec-2] c.e.r.p.controller.ProductController     : error message
+[2024-01-25 10:25:31:49659] DEBUG 80763 --- [nio-8080-exec-3] c.e.r.p.controller.ProductController     : debug message
+[2024-01-25 10:25:31:49661] INFO  80763 --- [nio-8080-exec-3] c.e.r.p.controller.ProductController     : info message
+[2024-01-25 10:25:31:49661] WARN  80763 --- [nio-8080-exec-3] c.e.r.p.controller.ProductController     : warn message
+[2024-01-25 10:25:31:49661] ERROR 80763 --- [nio-8080-exec-3] c.e.r.p.controller.ProductController     : error message
+[2024-01-25 10:26:12:245] INFO  80827 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 80827 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:26:12:245] DEBUG 80827 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:26:12:245] INFO  80827 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:26:14:1769] INFO  80827 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.72 seconds (process running for 2.023)
+[2024-01-25 10:26:16:3612] DEBUG 80827 --- [nio-8080-exec-1] c.e.r.p.controller.ProductController     : debug message
+[2024-01-25 10:26:16:3612] INFO  80827 --- [nio-8080-exec-1] c.e.r.p.controller.ProductController     : info message
+[2024-01-25 10:26:16:3612] WARN  80827 --- [nio-8080-exec-1] c.e.r.p.controller.ProductController     : warn message
+[2024-01-25 10:26:16:3612] ERROR 80827 --- [nio-8080-exec-1] c.e.r.p.controller.ProductController     : error message
+[2024-01-25 10:26:30:235] INFO  80847 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 80847 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:26:30:235] DEBUG 80847 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:26:30:235] INFO  80847 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:26:31:1773] INFO  80847 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.726 seconds (process running for 2.003)
+[2024-01-25 10:26:32:1892] DEBUG 80847 --- [nio-8080-exec-1] c.e.r.p.controller.ProductController     : debug message
+[2024-01-25 10:26:32:1892] INFO  80847 --- [nio-8080-exec-1] c.e.r.p.controller.ProductController     : info message
+[2024-01-25 10:26:32:1892] WARN  80847 --- [nio-8080-exec-1] c.e.r.p.controller.ProductController     : warn message
+[2024-01-25 10:26:32:1892] ERROR 80847 --- [nio-8080-exec-1] c.e.r.p.controller.ProductController     : error message
+[2024-01-25 10:26:33:3227] DEBUG 80847 --- [nio-8080-exec-3] c.e.r.p.controller.ProductController     : debug message
+[2024-01-25 10:26:33:3227] INFO  80847 --- [nio-8080-exec-3] c.e.r.p.controller.ProductController     : info message
+[2024-01-25 10:26:33:3227] WARN  80847 --- [nio-8080-exec-3] c.e.r.p.controller.ProductController     : warn message
+[2024-01-25 10:26:33:3227] ERROR 80847 --- [nio-8080-exec-3] c.e.r.p.controller.ProductController     : error message
+[2024-01-25 10:26:38:241] INFO  80856 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 80856 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:26:38:242] DEBUG 80856 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:26:38:242] INFO  80856 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:26:39:1730] INFO  80856 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.677 seconds (process running for 1.978)
+[2024-01-25 10:26:40:2590] DEBUG 80856 --- [nio-8080-exec-2] c.e.r.p.controller.ProductController     : debug message
+[2024-01-25 10:26:40:2590] INFO  80856 --- [nio-8080-exec-2] c.e.r.p.controller.ProductController     : info message
+[2024-01-25 10:26:40:2590] WARN  80856 --- [nio-8080-exec-2] c.e.r.p.controller.ProductController     : warn message
+[2024-01-25 10:26:40:2590] ERROR 80856 --- [nio-8080-exec-2] c.e.r.p.controller.ProductController     : error message
+[2024-01-25 10:26:49:236] INFO  80864 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 80864 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:26:49:236] DEBUG 80864 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:26:49:236] INFO  80864 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:27:11:258] INFO  80886 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 80886 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:27:11:258] DEBUG 80886 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:27:11:258] INFO  80886 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:27:13:1907] INFO  80886 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.852 seconds (process running for 2.095)
+[2024-01-25 10:27:13:2380] DEBUG 80886 --- [nio-8080-exec-2] c.e.r.p.controller.ProductController     : debug message
+[2024-01-25 10:27:13:2380] INFO  80886 --- [nio-8080-exec-2] c.e.r.p.controller.ProductController     : info message
+[2024-01-25 10:27:13:2380] WARN  80886 --- [nio-8080-exec-2] c.e.r.p.controller.ProductController     : warn message
+[2024-01-25 10:27:13:2380] ERROR 80886 --- [nio-8080-exec-2] c.e.r.p.controller.ProductController     : error message
+[2024-01-25 10:27:25:236] INFO  80903 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 80903 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:27:25:236] DEBUG 80903 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:27:25:237] INFO  80903 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:27:27:1683] INFO  80903 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.637 seconds (process running for 1.88)
+[2024-01-25 10:27:28:3612] DEBUG 80903 --- [nio-8080-exec-1] c.e.r.p.controller.ProductController     : debug message
+[2024-01-25 10:27:28:3612] INFO  80903 --- [nio-8080-exec-1] c.e.r.p.controller.ProductController     : info message
+[2024-01-25 10:27:28:3612] WARN  80903 --- [nio-8080-exec-1] c.e.r.p.controller.ProductController     : warn message
+[2024-01-25 10:27:28:3612] ERROR 80903 --- [nio-8080-exec-1] c.e.r.p.controller.ProductController     : error message
+[2024-01-25 10:27:32:7118] DEBUG 80903 --- [nio-8080-exec-3] c.e.r.p.controller.ProductController     : debug message
+[2024-01-25 10:27:32:7118] INFO  80903 --- [nio-8080-exec-3] c.e.r.p.controller.ProductController     : info message
+[2024-01-25 10:27:32:7119] WARN  80903 --- [nio-8080-exec-3] c.e.r.p.controller.ProductController     : warn message
+[2024-01-25 10:27:32:7119] ERROR 80903 --- [nio-8080-exec-3] c.e.r.p.controller.ProductController     : error message
+[2024-01-25 10:27:54:243] INFO  80918 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 80918 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:27:54:243] DEBUG 80918 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:27:54:243] INFO  80918 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:27:56:1741] INFO  80918 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.688 seconds (process running for 2.003)
+[2024-01-25 10:27:58:3607] DEBUG 80918 --- [nio-8080-exec-2] c.e.r.p.controller.ProductController     : debug message
+[2024-01-25 10:27:58:3607] INFO  80918 --- [nio-8080-exec-2] c.e.r.p.controller.ProductController     : info message
+[2024-01-25 10:27:58:3607] WARN  80918 --- [nio-8080-exec-2] c.e.r.p.controller.ProductController     : warn message
+[2024-01-25 10:27:58:3607] ERROR 80918 --- [nio-8080-exec-2] c.e.r.p.controller.ProductController     : error message
+[2024-01-25 10:27:58:3608] INFO  80918 --- [nio-8080-exec-2] c.e.r.common.aop.LoggerAspect            : params : {controller=ProductController, http_method=GET, method=getById, params={}, log_time=Thu Jan 25 10:27:58 KST 2024, request_uri=/products/1}
+[2024-01-25 10:28:39:44977] INFO  80918 --- [nio-8080-exec-5] c.e.r.common.aop.LoggerAspect            : params : {controller=ProductController, http_method=POST, method=getById, params={}, log_time=Thu Jan 25 10:28:39 KST 2024, request_uri=/products}
+[2024-01-25 10:29:25:232] INFO  80998 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 80998 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:29:25:232] DEBUG 80998 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:29:25:233] INFO  80998 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:29:27:1622] INFO  80998 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.576 seconds (process running for 1.852)
+[2024-01-25 10:29:36:11051] INFO  80998 --- [nio-8080-exec-1] c.e.r.common.aop.LoggerAspect            : params : {controller=ProductController, http_method=POST, method=postProduct, params={}, log_time=Thu Jan 25 10:29:36 KST 2024, request_uri=/products}
+[2024-01-25 10:31:04:366] INFO  81067 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 81067 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:31:04:367] DEBUG 81067 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:31:04:368] INFO  81067 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:31:06:1867] INFO  81067 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.8 seconds (process running for 2.198)
+[2024-01-25 10:31:18:234] INFO  81081 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 81081 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:31:18:234] DEBUG 81081 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:31:18:234] INFO  81081 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:31:19:1666] INFO  81081 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.619 seconds (process running for 1.907)
+[2024-01-25 10:31:28:10213] INFO  81081 --- [nio-8080-exec-2] c.e.r.common.aop.LoggerAspect            : params : {controller=ProductController, http_method=POST, method=postProduct, params={}, log_time=Thu Jan 25 10:31:28 KST 2024, request_uri=/products}
+[2024-01-25 10:31:43:235] INFO  81100 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 81100 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:31:43:236] DEBUG 81100 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:31:43:236] INFO  81100 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:31:45:1678] INFO  81100 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.63 seconds (process running for 1.933)
+[2024-01-25 10:31:46:2949] INFO  81100 --- [nio-8080-exec-1] c.e.r.common.aop.LoggerAspect            : params : {controller=ProductController, http_method=POST, method=postProduct, params={}, log_time=Thu Jan 25 10:31:46 KST 2024, request_uri=/products}
+[2024-01-25 10:31:49:5601] INFO  81100 --- [nio-8080-exec-3] c.e.r.common.aop.LoggerAspect            : params : {controller=ProductController, http_method=POST, method=postProduct, params={}, log_time=Thu Jan 25 10:31:49 KST 2024, request_uri=/products}
+[2024-01-25 10:32:11:266] INFO  81120 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 81120 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:32:11:266] DEBUG 81120 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:32:11:266] INFO  81120 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:32:13:1710] INFO  81120 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.635 seconds (process running for 1.937)
+[2024-01-25 10:32:15:4053] INFO  81120 --- [nio-8080-exec-1] c.e.r.common.aop.LoggerAspect            : params : {controller=ProductController, http_method=POST, method=postProduct, params={}, log_time=Thu Jan 25 10:32:15 KST 2024, request_uri=/products}
+[2024-01-25 10:32:28:229] INFO  81134 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 81134 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:32:28:230] DEBUG 81134 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:32:28:230] INFO  81134 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:32:29:1615] INFO  81134 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.568 seconds (process running for 1.828)
+[2024-01-25 10:32:31:3016] INFO  81134 --- [nio-8080-exec-1] c.e.r.common.aop.LoggerAspect            : params : {controller=ProductController, http_method=POST, method=postProduct, params={}, log_time=Thu Jan 25 10:32:31 KST 2024, request_uri=/products}
+[2024-01-25 10:32:47:245] INFO  81149 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 81149 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:32:47:245] DEBUG 81149 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:32:47:245] INFO  81149 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:32:48:1713] INFO  81149 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.655 seconds (process running for 1.927)
+[2024-01-25 10:32:50:2975] INFO  81149 --- [nio-8080-exec-1] c.e.r.common.aop.LoggerAspect            : params : {controller=ProductController, http_method=POST, method=postProduct, params={}, log_time=Thu Jan 25 10:32:50 KST 2024, request_uri=/products}
+[2024-01-25 10:33:36:238] INFO  81183 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 81183 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:33:36:238] DEBUG 81183 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:33:36:238] INFO  81183 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:33:37:1822] INFO  81183 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.772 seconds (process running for 2.027)
+[2024-01-25 10:33:45:9300] INFO  81183 --- [nio-8080-exec-2] c.e.r.common.aop.LoggerAspect            : params : {request_ip=0:0:0:0:0:0:0:1, controller=ProductController, http_method=POST, method=postProduct, params={}, log_time=Thu Jan 25 10:33:45 KST 2024, request_uri=/products}
+[2024-01-25 10:34:48:240] INFO  81239 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 81239 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:34:48:240] DEBUG 81239 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:34:48:240] INFO  81239 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:34:49:1674] INFO  81239 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.623 seconds (process running for 1.919)
+[2024-01-25 10:34:53:5171] INFO  81239 --- [nio-8080-exec-1] c.e.r.common.aop.LoggerAspect            : params : {request_ip=0:0:0:0:0:0:0:1, controller=ProductController, http_method=POST, method=postProduct, params={}, log_time=2024-01-25 10:34:53, request_uri=/products}
+[2024-01-25 10:35:22:239] INFO  81271 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 81271 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:35:22:239] DEBUG 81271 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:35:22:239] INFO  81271 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:35:24:1740] INFO  81271 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.695 seconds (process running for 1.93)
+[2024-01-25 10:35:25:2415] INFO  81271 --- [nio-8080-exec-1] c.e.r.common.aop.LoggerAspect            : params : {request_ip=0:0:0:0:0:0:0:1, controller=ProductController, http_method=POST, method=postProduct, params={}, log_time=2024-01-25 10:35:25, request_uri=/products}
+[2024-01-25 10:35:32:238] INFO  81294 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 81294 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:35:32:238] DEBUG 81294 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:35:32:239] INFO  81294 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:35:34:1622] INFO  81294 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.566 seconds (process running for 1.818)
+[2024-01-25 10:40:38:251] INFO  81536 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 81536 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:40:38:251] DEBUG 81536 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:40:38:252] INFO  81536 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:40:40:1680] INFO  81536 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.629 seconds (process running for 1.888)
+[2024-01-25 10:40:42:3824] INFO  81536 --- [nio-8080-exec-1] c.e.r.common.aop.LoggerAspect            : params : {request_ip=0:0:0:0:0:0:0:1, controller=ProductController, http_method=POST, method=postProduct, params={}, log_time=2024-01-25 10:40:42, request_uri=/products}
+[2024-01-25 10:41:57:239] INFO  81626 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 81626 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:41:57:240] DEBUG 81626 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:41:57:240] INFO  81626 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:41:59:1662] INFO  81626 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.613 seconds (process running for 1.928)
+[2024-01-25 10:42:01:4223] INFO  81626 --- [nio-8080-exec-2] c.e.r.common.aop.LoggerAspect            : params : {request_ip=0:0:0:0:0:0:0:1, controller=ProductController, http_method=POST, method=postProduct, params={}, log_time=2024-01-25 10:42:01, request_uri=/products}
+[2024-01-25 10:42:26:232] INFO  81652 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 81652 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:42:26:232] DEBUG 81652 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:42:26:232] INFO  81652 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:42:27:1616] INFO  81652 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.57 seconds (process running for 1.936)
+[2024-01-25 10:42:29:3377] INFO  81652 --- [nio-8080-exec-2] c.e.r.common.aop.LoggerAspect            : params : {request_ip=0:0:0:0:0:0:0:1, controller=ProductController, http_method=POST, method=postProduct, params={}, log_time=2024-01-25 10:42:29, request_uri=/products}
+[2024-01-25 10:52:48:240] INFO  82227 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 82227 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:52:48:240] DEBUG 82227 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:52:48:240] INFO  82227 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:52:49:778] DEBUG 82227 --- [           main] c.e.r.common.aop.LoggingFilter           : Filter 'loggingFilter' configured for use
+[2024-01-25 10:52:50:1716] INFO  82227 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.669 seconds (process running for 2.061)
+[2024-01-25 10:53:10:22137] ERROR 82227 --- [nio-8080-exec-1] c.e.r.c.aop.ReadableRequestWrapper       : ReadableRequestWrapper init error
+java.lang.ClassCastException: class org.json.simple.JSONObject cannot be cast to class org.json.JSONObject (org.json.simple.JSONObject and org.json.JSONObject are in unnamed module of loader 'app')
+	at com.example.reserveshop.common.aop.ReadableRequestWrapper.<init>(ReadableRequestWrapper.java:59)
+	at com.example.reserveshop.common.aop.LoggingFilter.doFilterInternal(LoggingFilter.java:33)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[2024-01-25 10:53:10:22138] INFO  82227 --- [nio-8080-exec-1] c.e.r.common.aop.LoggingFilter           : Request : POST traceId =9560f493-9bbb-48fb-a77a-1081f09b2cfb uri=[/products] content-type=[application/json] ipAddress=0:0:0:0:0:0:0:1
+[2024-01-25 10:53:10:22139] INFO  82227 --- [nio-8080-exec-1] c.e.r.common.aop.LoggingFilter           : Request Payload: {
+    "price":1000,
+    "name":"asd"
+}
+[2024-01-25 10:53:10:22228] INFO  82227 --- [nio-8080-exec-1] c.e.r.common.aop.LoggerAspect            : params : {request_ip=0:0:0:0:0:0:0:1, controller=ProductController, http_method=POST, method=postProduct, params={}, log_time=2024-01-25 10:53:10, request_uri=/products}
+[2024-01-25 10:53:34:230] INFO  82272 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 82272 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 10:53:34:230] DEBUG 82272 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 10:53:34:230] INFO  82272 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 10:53:34:741] DEBUG 82272 --- [           main] c.e.r.common.aop.LoggingFilter           : Filter 'loggingFilter' configured for use
+[2024-01-25 10:53:35:1617] INFO  82272 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.569 seconds (process running for 1.836)
+[2024-01-25 10:53:37:3513] ERROR 82272 --- [nio-8080-exec-1] c.e.r.c.aop.ReadableRequestWrapper       : ReadableRequestWrapper init error
+java.lang.ClassCastException: class org.json.simple.JSONObject cannot be cast to class org.json.JSONObject (org.json.simple.JSONObject and org.json.JSONObject are in unnamed module of loader 'app')
+	at com.example.reserveshop.common.aop.ReadableRequestWrapper.<init>(ReadableRequestWrapper.java:59)
+	at com.example.reserveshop.common.aop.LoggingFilter.doFilterInternal(LoggingFilter.java:32)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[2024-01-25 10:53:37:3515] INFO  82272 --- [nio-8080-exec-1] c.e.r.common.aop.LoggingFilter           : Request : POST traceId =0db54820-9957-4b39-a7f7-90ce4d63cf3b uri=[/products] content-type=[application/json] ipAddress=0:0:0:0:0:0:0:1
+[2024-01-25 10:53:37:3516] INFO  82272 --- [nio-8080-exec-1] c.e.r.common.aop.LoggingFilter           : Request Payload: {
+    "price":1000,
+    "name":"asd"
+}
+[2024-01-25 10:53:37:3588] INFO  82272 --- [nio-8080-exec-1] c.e.r.common.aop.LoggerAspect            : params : {request_ip=0:0:0:0:0:0:0:1, controller=ProductController, http_method=POST, method=postProduct, params={}, log_time=2024-01-25 10:53:37, request_uri=/products}
+[2024-01-25 11:04:30:239] INFO  82766 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 82766 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 11:04:30:239] DEBUG 82766 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 11:04:30:239] INFO  82766 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 11:04:30:764] DEBUG 82766 --- [           main] c.e.r.common.aop.LoggingFilter           : Filter 'loggingFilter' configured for use
+[2024-01-25 11:04:31:1625] INFO  82766 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.58 seconds (process running for 1.809)
+[2024-01-25 11:05:48:566] INFO  82854 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 82854 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 11:05:48:566] DEBUG 82854 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 11:05:48:566] INFO  82854 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 11:05:49:1150] DEBUG 82854 --- [           main] c.e.r.common.aop.LoggingFilter           : Filter 'loggingFilter' configured for use
+[2024-01-25 11:05:50:2133] INFO  82854 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 2.055 seconds (process running for 2.469)
+[2024-01-25 11:05:52:4547] ERROR 82854 --- [nio-8080-exec-1] c.e.r.c.aop.ReadableRequestWrapper       : ReadableRequestWrapper init error
+java.lang.ClassCastException: class org.json.simple.JSONObject cannot be cast to class org.json.JSONObject (org.json.simple.JSONObject and org.json.JSONObject are in unnamed module of loader 'app')
+	at com.example.reserveshop.common.aop.ReadableRequestWrapper.<init>(ReadableRequestWrapper.java:59)
+	at com.example.reserveshop.common.aop.LoggingFilter.doFilterInternal(LoggingFilter.java:32)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[2024-01-25 11:05:52:4549] INFO  82854 --- [nio-8080-exec-1] c.e.r.common.aop.LoggingFilter           : Request : POST traceId =55bc93fc-85e1-4f76-8aa4-703c7fa1cf3c uri=[/products] content-type=[application/json] ipAddress=0:0:0:0:0:0:0:1
+[2024-01-25 11:05:52:4550] INFO  82854 --- [nio-8080-exec-1] c.e.r.common.aop.LoggingFilter           : Request Payload: {
+    "price":1000,
+    "name":"asd"
+}
+[2024-01-25 11:05:53:4635] INFO  82854 --- [nio-8080-exec-1] c.e.r.common.aop.LoggingFilter           : Request Payload: {
+    "price":1000,
+    "name":"asd"
+}
+[2024-01-25 11:05:53:4636] INFO  82854 --- [nio-8080-exec-1] c.e.r.common.aop.LoggingFilter           : Request Payload: {
+    "price":1000,
+    "name":"asd"
+}
+[2024-01-25 11:05:53:4636] INFO  82854 --- [nio-8080-exec-1] c.e.r.common.aop.LoggerAspect            : params : {request_ip=0:0:0:0:0:0:0:1, controller=ProductController, http_method=POST, method=postProduct, params={
+    "price":1000,
+    "name":"asd"
+}, log_time=2024-01-25 11:05:53, request_uri=/products}
+[2024-01-25 11:09:21:238] INFO  83055 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 83055 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 11:09:21:238] DEBUG 83055 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 11:09:21:238] INFO  83055 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 11:09:22:1665] INFO  83055 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.617 seconds (process running for 1.863)
+[2024-01-25 11:09:23:2995] INFO  83055 --- [nio-8080-exec-1] c.e.r.common.aop.LoggerAspect            : params : {request_ip=0:0:0:0:0:0:0:1, controller=ProductController, http_method=POST, method=postProduct, params={}, log_time=2024-01-25 11:09:23, request_uri=/products}
+[2024-01-25 11:09:36:243] INFO  83069 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 83069 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 11:09:36:243] DEBUG 83069 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 11:09:36:243] INFO  83069 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 11:09:38:1602] INFO  83069 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.555 seconds (process running for 1.795)
+[2024-01-25 11:09:39:3073] INFO  83069 --- [nio-8080-exec-1] c.e.r.common.aop.LoggerAspect            : params : {request_ip=0:0:0:0:0:0:0:1, controller=ProductController, http_method=POST, method=postProduct, params=null, log_time=2024-01-25 11:09:39, request_uri=/products}
+[2024-01-25 11:10:10:240] INFO  83091 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 83091 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 11:10:10:240] DEBUG 83091 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 11:10:10:240] INFO  83091 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 11:10:11:754] DEBUG 83091 --- [           main] c.e.r.common.aop.LoggingFilter           : Filter 'loggingFilter' configured for use
+[2024-01-25 11:10:11:1619] INFO  83091 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.569 seconds (process running for 1.813)
+[2024-01-25 11:10:15:5612] ERROR 83091 --- [nio-8080-exec-2] c.e.r.c.aop.ReadableRequestWrapper       : ReadableRequestWrapper init error
+java.lang.ClassCastException: class org.json.simple.JSONObject cannot be cast to class org.json.JSONObject (org.json.simple.JSONObject and org.json.JSONObject are in unnamed module of loader 'app')
+	at com.example.reserveshop.common.aop.ReadableRequestWrapper.<init>(ReadableRequestWrapper.java:59)
+	at com.example.reserveshop.common.aop.LoggingFilter.doFilterInternal(LoggingFilter.java:32)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[2024-01-25 11:10:15:5615] INFO  83091 --- [nio-8080-exec-2] c.e.r.common.aop.LoggingFilter           : Request : POST traceId =775e8a66-fc18-495a-b9fc-26d7e98178ad uri=[/products] content-type=[application/json] ipAddress=0:0:0:0:0:0:0:1
+[2024-01-25 11:10:15:5616] INFO  83091 --- [nio-8080-exec-2] c.e.r.common.aop.LoggingFilter           : Request Payload: {
+    "price":1000,
+    "name":"asd"
+}
+[2024-01-25 11:10:16:5722] INFO  83091 --- [nio-8080-exec-2] c.e.r.common.aop.LoggingFilter           : Request Payload: {
+    "price":1000,
+    "name":"asd"
+}
+[2024-01-25 11:10:16:5723] INFO  83091 --- [nio-8080-exec-2] c.e.r.common.aop.LoggerAspect            : params : {request_ip=0:0:0:0:0:0:0:1, controller=ProductController, http_method=POST, method=postProduct, params={}, log_time=2024-01-25 11:10:16, request_uri=/products}
+[2024-01-25 11:10:38:235] INFO  83111 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 83111 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 11:10:38:235] DEBUG 83111 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 11:10:38:235] INFO  83111 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 11:10:39:778] DEBUG 83111 --- [           main] c.e.r.common.aop.LoggingFilter           : Filter 'loggingFilter' configured for use
+[2024-01-25 11:10:40:1660] INFO  83111 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.613 seconds (process running for 1.845)
+[2024-01-25 11:10:41:3289] ERROR 83111 --- [nio-8080-exec-2] c.e.r.c.aop.ReadableRequestWrapper       : ReadableRequestWrapper init error
+java.lang.ClassCastException: class org.json.simple.JSONObject cannot be cast to class org.json.JSONObject (org.json.simple.JSONObject and org.json.JSONObject are in unnamed module of loader 'app')
+	at com.example.reserveshop.common.aop.ReadableRequestWrapper.<init>(ReadableRequestWrapper.java:59)
+	at com.example.reserveshop.common.aop.LoggingFilter.doFilterInternal(LoggingFilter.java:32)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[2024-01-25 11:10:41:3292] INFO  83111 --- [nio-8080-exec-2] c.e.r.common.aop.LoggingFilter           : Request : POST traceId =2f0a2806-40ba-4e5f-ad32-bed2f92335c8 uri=[/products] content-type=[application/json] ipAddress=0:0:0:0:0:0:0:1
+[2024-01-25 11:10:41:3293] INFO  83111 --- [nio-8080-exec-2] c.e.r.common.aop.LoggingFilter           : Request Payload: {
+    "price":1000,
+    "name":"asd"
+}
+[2024-01-25 11:10:41:3388] INFO  83111 --- [nio-8080-exec-2] c.e.r.common.aop.LoggingFilter           : Request Payload: {
+    "price":1000,
+    "name":"asd"
+}
+[2024-01-25 11:10:41:3389] INFO  83111 --- [nio-8080-exec-2] c.e.r.common.aop.LoggerAspect            : params : {request_ip=0:0:0:0:0:0:0:1, controller=ProductController, http_method=POST, method=postProduct, params={
+    "price":1000,
+    "name":"asd"
+}, log_time=2024-01-25 11:10:41, request_uri=/products}
+[2024-01-25 11:10:57:246] INFO  83125 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 83125 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 11:10:57:247] DEBUG 83125 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 11:10:57:247] INFO  83125 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 11:10:58:903] DEBUG 83125 --- [           main] c.e.r.common.aop.LoggingFilter           : Filter 'loggingFilter' configured for use
+[2024-01-25 11:10:59:1806] INFO  83125 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.755 seconds (process running for 2.037)
+[2024-01-25 11:11:06:9228] ERROR 83125 --- [nio-8080-exec-2] c.e.r.c.aop.ReadableRequestWrapper       : ReadableRequestWrapper init error
+java.lang.ClassCastException: class org.json.simple.JSONObject cannot be cast to class org.json.JSONObject (org.json.simple.JSONObject and org.json.JSONObject are in unnamed module of loader 'app')
+	at com.example.reserveshop.common.aop.ReadableRequestWrapper.<init>(ReadableRequestWrapper.java:59)
+	at com.example.reserveshop.common.aop.LoggingFilter.doFilterInternal(LoggingFilter.java:32)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[2024-01-25 11:11:06:9233] INFO  83125 --- [nio-8080-exec-2] c.e.r.common.aop.LoggingFilter           : Request : POST traceId =0af69fd5-fa1b-40af-837f-babf17cae398 uri=[/products] content-type=[application/json] ipAddress=0:0:0:0:0:0:0:1
+[2024-01-25 11:11:06:9233] INFO  83125 --- [nio-8080-exec-2] c.e.r.common.aop.LoggingFilter           : Request Payload: {
+    "price":1000,
+    "name":"asd"
+}
+[2024-01-25 11:11:06:9332] INFO  83125 --- [nio-8080-exec-2] c.e.r.common.aop.LoggingFilter           : Request Payload: {
+    "price":1000,
+    "name":"asd"
+}
+[2024-01-25 11:11:06:9332] INFO  83125 --- [nio-8080-exec-2] c.e.r.common.aop.LoggerAspect            : params : {request_ip=0:0:0:0:0:0:0:1, controller=ProductController, http_method=POST, method=postProduct, params={
+    "price":1000,
+    "name":"asd"
+}, log_time=2024-01-25 11:11:06, request_uri=/products}
+[2024-01-25 11:11:26:240] INFO  83148 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 83148 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 11:11:26:240] DEBUG 83148 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 11:11:26:240] INFO  83148 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 11:11:27:759] DEBUG 83148 --- [           main] c.e.r.common.aop.LoggingFilter           : Filter 'loggingFilter' configured for use
+[2024-01-25 11:11:28:1689] INFO  83148 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.641 seconds (process running for 1.881)
+[2024-01-25 11:11:29:3055] ERROR 83148 --- [nio-8080-exec-1] c.e.r.c.aop.ReadableRequestWrapper       : ReadableRequestWrapper init error
+java.lang.ClassCastException: class org.json.simple.JSONObject cannot be cast to class org.json.JSONObject (org.json.simple.JSONObject and org.json.JSONObject are in unnamed module of loader 'app')
+	at com.example.reserveshop.common.aop.ReadableRequestWrapper.<init>(ReadableRequestWrapper.java:59)
+	at com.example.reserveshop.common.aop.LoggingFilter.doFilterInternal(LoggingFilter.java:32)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[2024-01-25 11:11:29:3057] INFO  83148 --- [nio-8080-exec-1] c.e.r.common.aop.LoggingFilter           : Request : POST traceId =e8947fbe-f237-496b-adda-5d3d1a66b473 uri=[/products] content-type=[application/json] ipAddress=0:0:0:0:0:0:0:1
+[2024-01-25 11:11:29:3139] INFO  83148 --- [nio-8080-exec-1] c.e.r.common.aop.LoggingFilter           : Request Payload: {
+    "price":1000,
+    "name":"asd"
+}
+[2024-01-25 11:11:29:3139] INFO  83148 --- [nio-8080-exec-1] c.e.r.common.aop.LoggerAspect            : params : {request_ip=0:0:0:0:0:0:0:1, controller=ProductController, http_method=POST, method=postProduct, params={
+    "price":1000,
+    "name":"asd"
+}, log_time=2024-01-25 11:11:29, request_uri=/products}
+[2024-01-25 11:11:48:236] INFO  83169 --- [           main] c.e.r.ReserveShopApplication             : Starting ReserveShopApplication using Java 21.0.2 with PID 83169 (/Users/choeseongjun/Desktop/test/reserveShop/build/classes/java/main started by choeseongjun in /Users/choeseongjun/Desktop/test/reserveShop)
+[2024-01-25 11:11:48:236] DEBUG 83169 --- [           main] c.e.r.ReserveShopApplication             : Running with Spring Boot v3.2.2, Spring v6.1.3
+[2024-01-25 11:11:48:236] INFO  83169 --- [           main] c.e.r.ReserveShopApplication             : The following 2 profiles are active: "dev", "dev-log"
+[2024-01-25 11:11:49:758] DEBUG 83169 --- [           main] c.e.r.common.aop.LoggingFilter           : Filter 'loggingFilter' configured for use
+[2024-01-25 11:11:49:1628] INFO  83169 --- [           main] c.e.r.ReserveShopApplication             : Started ReserveShopApplication in 1.579 seconds (process running for 1.819)
+[2024-01-25 11:11:51:3101] ERROR 83169 --- [nio-8080-exec-2] c.e.r.c.aop.ReadableRequestWrapper       : ReadableRequestWrapper init error
+java.lang.ClassCastException: class org.json.simple.JSONObject cannot be cast to class org.json.JSONObject (org.json.simple.JSONObject and org.json.JSONObject are in unnamed module of loader 'app')
+	at com.example.reserveshop.common.aop.ReadableRequestWrapper.<init>(ReadableRequestWrapper.java:59)
+	at com.example.reserveshop.common.aop.LoggingFilter.doFilterInternal(LoggingFilter.java:32)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[2024-01-25 11:11:51:3103] INFO  83169 --- [nio-8080-exec-2] c.e.r.common.aop.LoggingFilter           : Request : POST traceId =006adb38-9ef8-46f0-911f-29ebc8fc4d8f uri=[/products] content-type=[application/json] ipAddress=0:0:0:0:0:0:0:1
+[2024-01-25 11:11:51:3194] INFO  83169 --- [nio-8080-exec-2] c.e.r.common.aop.LoggerAspect            : params : {request_ip=0:0:0:0:0:0:0:1, controller=ProductController, http_method=POST, method=postProduct, params={
+    "price":1000,
+    "name":"asd"
+}, log_time=2024-01-25 11:11:51, request_uri=/products}

@@ -1,0 +1,22 @@
+[2024-01-25 09:37:57:1414][main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - 4 mappings in 'requestMappingHandlerMapping'
+[2024-01-25 09:37:57:1442][main] DEBUG o.s.w.s.h.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[2024-01-25 09:37:57:1456][main] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[2024-01-25 09:37:57:1467][main] DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 2 @ExceptionHandler, 1 ResponseBodyAdvice
+[2024-01-25 09:38:11:16006][http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[2024-01-25 09:38:11:16006][http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - Detected StandardServletMultipartResolver
+[2024-01-25 09:38:11:16011][http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - Detected AcceptHeaderLocaleResolver
+[2024-01-25 09:38:11:16011][http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - Detected FixedThemeResolver
+[2024-01-25 09:38:11:16011][http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@7a14ab66
+[2024-01-25 09:38:11:16012][http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - Detected org.springframework.web.servlet.support.SessionFlashMapManager@670ae31f
+[2024-01-25 09:38:11:16012][http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+[2024-01-25 09:38:11:16012][http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+[2024-01-25 09:38:11:16017][http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - GET "/products/1", parameters={}
+[2024-01-25 09:38:11:16027][http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.reserveshop.product.controller.ProductController#getById(long)
+[2024-01-25 09:38:11:16070][http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+[2024-01-25 09:38:11:16071][http-nio-8080-exec-2] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [com.example.reserveshop.common.dto.ApiResponse@21bc7aea]
+[2024-01-25 09:38:11:16085][http-nio-8080-exec-2] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK
+[2024-01-25 09:38:39:43587][http-nio-8080-exec-3] DEBUG o.s.web.servlet.DispatcherServlet - GET "/products/1", parameters={}
+[2024-01-25 09:38:39:43590][http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped to com.example.reserveshop.product.controller.ProductController#getById(long)
+[2024-01-25 09:38:39:43601][http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+[2024-01-25 09:38:39:43602][http-nio-8080-exec-3] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - Writing [com.example.reserveshop.common.dto.ApiResponse@75d609da]
+[2024-01-25 09:38:39:43605][http-nio-8080-exec-3] DEBUG o.s.web.servlet.DispatcherServlet - Completed 200 OK

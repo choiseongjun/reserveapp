@@ -1,0 +1,27 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/test_db
+    username: postgres
+    password: 123456
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    open-in-view: true
+    generate-ddl: true
+    hibernate:
+      ddl-auto: update
+      naming:
+        implicit-strategy: org.springframework.boot.orm.jpa.hibernate.SpringImplicitNamingStrategy
+        physical-strategy: org.hibernate.boot.model.naming.CamelCaseToUnderscoresNamingStrategy
+    show-sql: true
+server:
+  error:
+    include-message: always
+    include-stacktrace: always
+    include-binding-errors: always
+
+logging:
+  config:
+    path: ./logs
+    filename: app-dev
+    maxHistory: 7 # 7?
+    totalSizeCap: 10MB # ?? ?? ???
